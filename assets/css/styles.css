@@ -610,6 +610,10 @@ body {
 }
 
 @media only screen and (max-width:500px) {
+
+    .main_body{
+        height: 100vh;
+    }
     
     .sec_1{
         height: 150px;
