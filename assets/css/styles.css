@@ -620,9 +620,9 @@ body {
     }
 
     .sec_1{
-        height: 150px;
+        height: 250px;
         width: 100%;
-        margin-top: 2%;
+        margin-top: 0;
     }
     
     .liked_songs{
