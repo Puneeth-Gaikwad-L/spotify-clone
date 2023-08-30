@@ -611,23 +611,27 @@ body {
 
 @media only screen and (max-width:500px) {
 
-    .main_body{
+   .main_body{
         height: 100vh;
     }
     
     .scroll_content{
         width: 95vw;
+        /* background-color: red; */
+        padding: 2px;
     }
 
     .sec_1{
         height: 250px;
         width: 100%;
         margin-top: 0;
+        /* background-color: blue; */
     }
     
     .liked_songs{
         width: 47%;
-        height: 40%;
+        height: 30%;
+        margin-right: 2px;
     }
 
     .liked_img_block2{
@@ -670,6 +674,7 @@ body {
     .player{
         height: 13vh;
     }
+    
     
 
 }
