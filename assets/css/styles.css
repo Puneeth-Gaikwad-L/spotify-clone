@@ -617,6 +617,12 @@ body {
     
     .sec_1{
         height: 150px;
+        width: 100%;
+    }
+    
+    .liked_songs{
+        width: 47%;
+        height: 40%;
     }
     
     .liked_songs{
