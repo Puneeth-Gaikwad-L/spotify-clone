@@ -615,9 +615,14 @@ body {
         height: 100vh;
     }
     
+    .scroll_content{
+        width: 95vw;
+    }
+
     .sec_1{
         height: 150px;
         width: 100%;
+        margin-top: 2%;
     }
     
     .liked_songs{
