@@ -14,6 +14,9 @@ The Home Page of the Spotify Clone offers users a familiar interface resembling 
 - Discover new releases and popular tracks.
 - Access playlists and albums.
 
+  ![image](https://github.com/Puneeth-Gaikwad-L/spotify-clone/assets/130468175/319d3c14-9e8b-43e1-8ce9-ad7029e32872)
+
+
 ### 2. Library Page
 
 The Library Page is designed to manage and organize the user's music collection. Key features include:
