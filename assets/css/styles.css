@@ -135,6 +135,26 @@ body {
     border-radius: 2px;
 }
 
+
+.fav_playlists{
+    width: 100%;
+    height: 30vh;
+    display: flex;
+    flex-direction: column;
+    overflow-y: scroll;
+    margin-top: 10px;
+    padding: 10px;
+    justify-content: center;
+}
+
+.fav_playlists p{
+    margin: 0;
+    color: #FFF;
+    font-weight: 700;
+    font-size: 12px;
+    margin-bottom: 15px;
+}
+
 /* -----------------------body right side --------------------------- */
 .body_right {
     background: linear-gradient(#212121, #121212);
@@ -163,9 +183,16 @@ body {
     /* background-color: red; */
 }
 
-.scroll_content::-webkit-scrollbar{
-    display: none;
-}
+
+::-webkit-scrollbar {
+    width: 10px;
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    /* background: red; */
+    box-shadow: inset 0 0 5px grey;
+    border-radius: 10px;
+  }
 
 
 
@@ -625,6 +652,11 @@ body {
         padding: 2px;
         justify-content: center;
         align-items: center;
+        margin-top: 3%;
+    }
+
+    .scroll_content::-webkit-scrollbar{
+        display: none;
     }
 
     .sec_1{
