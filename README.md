@@ -28,13 +28,9 @@ The Spotify Clone is optimized for various devices, ensuring a seamless experien
 
 ## Installation
 
-To run this project locally, simply clone the repository and open the `index.html` file in your preferred web browser.
+To run this project locally, click on the link below.
 
-```bash
-git clone https://github.com/yourusername/spotify-clone.git
-cd spotify-clone
-open index.html
-```
+https://puneeth-gaikwad-l.github.io/spotify-clone/
 
 ## Usage
 
