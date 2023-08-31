@@ -59,7 +59,9 @@
     font-weight: 900;
     color: #fff;
 }
-
+.Shuffle_play{
+    display: none;
+}
 .btn {
     height: 100%;
     width: 16%;
@@ -90,7 +92,7 @@ table {
 .img_container {
     width: 50%;
     height: 100%;
-    background: url(./assets/Images/Rectangle\ 9.jpg);
+    background: url(/assets/Images/Rectangle\ 9.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -158,4 +160,71 @@ tr:hover {
     .playlist_name p {
         font-size: 10px;
     }
+}
+
+
+
+@media only screen and (max-width: 500px) {
+    .library_body{
+        width: 100vw;
+        height: 100vh;
+    }
+
+    .album_name{
+        flex-direction: column;
+        height: 150px;
+        justify-content: center;
+        align-items: center;
+        margin-left: 10px;
+    }
+
+    .album_name img {
+        display: none;
+    }
+    .buttons{
+        display: none;
+    }
+    .playlist_name{
+        width: 100%;
+        height: 100%;
+        justify-content: center;
+        align-items: center;
+        margin-top: 0;
+    }
+
+    .playlist_name p{
+        display: none;
+    }
+
+    .Shuffle_play{
+        display: flex;
+        margin-top: 15px;
+        justify-content: center;
+        align-items: center;
+        border-radius: 50px;
+        border: none;
+        background-color: #1ed760;
+        padding: 10px;
+        padding-inline: 30px;
+        text-transform: uppercase;
+        color: #FFF;
+        font-weight: 600;
+    }
+
+    .mobile_view{
+        display: none;
+    }
+
+    tr td {
+        width: 100%;
+    }
+
+    .library_song_name{
+        margin-left: 10px;
+    }
+
+    .artist{
+        margin-left: 20px;
+    }
+    
 }
