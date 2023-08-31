@@ -35,15 +35,3 @@ https://puneeth-gaikwad-l.github.io/spotify-clone/
 ## Usage
 
 Feel free to use and modify this project as needed. It serves as an excellent starting point for learning and experimenting with HTML and CSS for web development.
-
-## Contributing
-
-Contributions to this project are welcome! If you have any suggestions, bug fixes, or improvements to share, please open an issue or create a pull request on our [GitHub repository](https://github.com/yourusername/spotify-clone).
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-*Note: Replace `yourusername` in the installation and contributing sections with your actual GitHub username if you plan to host this project on GitHub.*
