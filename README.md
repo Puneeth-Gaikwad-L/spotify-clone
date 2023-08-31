@@ -34,10 +34,7 @@ The Library Page is designed to manage and organize the user's music collection.
 
 The Spotify Clone is optimized for various devices, ensuring a seamless experience on both desktop and mobile platforms. The responsive design adapts to different screen sizes, maintaining usability and aesthetics.
 
-![image](https://github.com/Puneeth-Gaikwad-L/spotify-clone/assets/130468175/4f9c5d39-705a-470b-b115-9b85e12c6528)
-
-![image](https://github.com/Puneeth-Gaikwad-L/spotify-clone/assets/130468175/41a288df-a031-4335-9340-47b443ff7dfa)
-
+![image](https://github.com/Puneeth-Gaikwad-L/spotify-clone/assets/130468175/4f9c5d39-705a-470b-b115-9b85e12c6528)              ![image](https://github.com/Puneeth-Gaikwad-L/spotify-clone/assets/130468175/41a288df-a031-4335-9340-47b443ff7dfa)
 
 
 ## Installation
