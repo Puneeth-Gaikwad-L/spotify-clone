@@ -646,6 +646,7 @@ body {
 
     .card{
         width: 50%;
+        margin-right: 3px;
     }
 
     .player{
