@@ -186,7 +186,7 @@ body {
     flex-shrink: 0;
     flex-grow: 0;
     margin-top: 10px;
-    padding: 5px;
+    /* background-color: red; */
 }
 
 .greatings {
@@ -611,7 +611,7 @@ body {
 
 @media only screen and (max-width:500px) {
 
-   .main_body{
+    .main_body{
         height: 100vh;
     }
     
@@ -619,6 +619,8 @@ body {
         width: 95vw;
         /* background-color: red; */
         padding: 2px;
+        justify-content: center;
+        align-items: center;
     }
 
     .sec_1{
@@ -657,10 +659,13 @@ body {
 
     .artist{
         height: 40%;
+        margin-left: 10px;
     }
 
     .song_title_2{
         font-size: 10px;
+        margin-left: 10px;
+        margin-bottom: 5px;
     }
 
     .footer_div{
@@ -674,7 +679,6 @@ body {
     .player{
         height: 13vh;
     }
-    
     
 
 }
